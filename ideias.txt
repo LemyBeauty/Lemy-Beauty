@@ -1,0 +1,62 @@
+
+
+
+area de promoções:
+- deixar mais elegante, organizar melhor.
+
+ideias adicionais:
+
+- escrever os codigos da galeria e contato.
+
+- criar algum tipo de mapa de localização para ajudar a guiar o cliente.
+
+- area de depoimentos, ou FAQ perguntas frequentes.
+
+- alterar o icone do navegador.
+
+- substituir as imagens com o .jpg.
+
+- integração com redes sociais, adicionar icones no rodapé para aumentar o "engajamento".
+
+
+
+
+
+.quem-somos {
+    padding: 50px 0;
+    background-color: #ffc3c2; /* cor de fundo clara */
+    border-radius: 120px;
+  }
+  
+  .quem-somos-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .imagem img {
+    width: 90%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 50px; /* borda arredondada para um toque moderno */
+  }
+  
+  .texto {
+    flex: 1;
+    margin-left: 20px;
+  }
+  
+  .texto h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+    color: #333; /* cor do título */
+  }
+  
+  .texto p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #555; /* cor do texto */
+  }
